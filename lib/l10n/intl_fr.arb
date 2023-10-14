@@ -1,0 +1,18 @@
+{
+  "@@locale": "fr",
+
+  "getStartedLabel": "Commencer",
+
+  "page1Title":"Ouvrez un compte professionnel au moment où votre thé est préparé",
+  "page1Subtitle":"Sachez instantanément ce qui arrive à votre argent.",
+
+  "page2Title":"C'est gratuit!",
+  "page2Subtitle":"Pas de frais mensuels. Ne payez aucun frais pour effectuer des paiements via NEFT et RTGS.",
+
+  "page3Title":"Cartes virtuelles gratuites",
+  "page3Subtitle":"Créez instantanément une carte virtuelle pour faciliter la gestion des paiements en ligne et ne perdez plus jamais votre carte !",
+
+  "page4Title":"Coffre-fort sécurisé",
+  "page4Subtitle":"Les détails de votre carte changent automatiquement à chaque fois que vous effectuez un paiement, vous protégeant ainsi de la fraude."
+
+}
